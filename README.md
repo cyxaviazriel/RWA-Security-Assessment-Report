@@ -238,50 +238,9 @@ These are the assessment areas documented in the report. fileciteturn0file
 
 ---
 
-# 📄 Assessment Report
+#  Assessment Report
 
 **Full RWA Security Assessment Report**
 [RWA Security Assessment Report Alebiosu OS.pdf](https://github.com/user-attachments/files/32363505/RWA.Security.Assessment.Report.Alebiosu.OS.pdf)
 
 ---
-
-# 👤 About the Researcher
-
-<p align="center">
-
-### ALEBIOSU OLUWADAMILARE SAMUEL
-
-`CYXAVIAZRIEL`
-
-**Cybersecurity Analyst**
-
-<br>
-
-Cybersecurity • VAPT • SOC • Network Security • GRC
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-Hands--On-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VAPT-Security%20Testing-EF4444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API-SECURITY-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY%20RESEARCH-06B6D4?style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:7C3AED,70:312E81,100:0F172A&height=130&section=footer" width="100%"/>
-
-</p>
-
-<p align="center">
-  <strong>© 2026 Alebiosu Oluwadamilare Samuel</strong>
-</p>
-
-<p align="center">
-  <code>CYXAVIAZRIEL</code> • Cybersecurity Portfolio
-</p>
