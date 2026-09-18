@@ -143,7 +143,7 @@ The assessment methodology in the report specifically identifies **Testssl.sh**,
 
 ---
 
-# 🎯 Security Assessment Scope
+#  Security Assessment Scope
 
 <p align="center">
 
@@ -156,18 +156,18 @@ The assessment methodology in the report specifically identifies **Testssl.sh**,
 
 | Area | Assessment Focus |
 |---|---|
-| 🛡️ **Resilience** | DoS / DDoS resilience and rate limiting |
-| 🔐 **Data Encryption** | Encryption in transit, at rest and in use |
-| 🔎 **Data Leak Prevention** | Sensitive data exposure and API responses |
-| 🔑 **Access Control** | Authorization and parameter manipulation |
-| 🌐 **Web Security** | Headers, routing and information disclosure |
-| 🔒 **TLS Security** | Protocol and cipher configuration |
+|  **Resilience** | DoS / DDoS resilience and rate limiting |
+|  **Data Encryption** | Encryption in transit, at rest and in use |
+|  **Data Leak Prevention** | Sensitive data exposure and API responses |
+|  **Access Control** | Authorization and parameter manipulation |
+|  **Web Security** | Headers, routing and information disclosure |
+|  **TLS Security** | Protocol and cipher configuration |
 
 These are the assessment areas documented in the report. fileciteturn0file0L7-L15
 
 ---
 
-# 📊 Findings at a Glance
+#  Findings at a Glance
 
 <p align="center">
 
@@ -178,30 +178,30 @@ These are the assessment areas documented in the report. fileciteturn0file
 
 </p>
 
-> **Key finding:** The assessment identified a High-severity broken access-control issue that exposed private campaign information through the API. fileciteturn0file0L37-L48
+ **Key finding:** The assessment identified a High-severity broken access-control issue that exposed private campaign information through the API. fileciteturn0file0L37-L48
 
 ---
 
-# 🛠️ Professional Tool Stack
+#  Professional Tool Stack
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │                  SECURITY TOOLCHAIN                      │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  🐉 Kali Linux                                           │
+│   Kali Linux                                           │
 │     └── Security Testing Environment                     │
 │                                                          │
-│  🟠 Burp Suite Community Edition                         │
+│   Burp Suite Community Edition                         │
 │     └── HTTP/HTTPS Interception & API Testing            │
 │                                                          │
-│  🔐 Testssl.sh                                            │
+│   Testssl.sh                                            │
 │     └── TLS Protocol & Cipher Analysis                   │
 │                                                          │
-│  🌐 Browser Developer Tools                              │
+│   Browser Developer Tools                              │
 │     └── Source Code & Response Inspection                │
 │                                                          │
-│  🔎 Manual Testing                                        │
+│   Manual Testing                                        │
 │     └── Access Control & Security Validation             │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
