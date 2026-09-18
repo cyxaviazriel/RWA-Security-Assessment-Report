@@ -209,59 +209,39 @@ These are the assessment areas documented in the report. fileciteturn0file
 
 ---
 
-# 📸 Evidence Gallery
+# Evidence Gallery
 
-> Screenshots and visual evidence can be added here.
+<img width="1365" height="731" alt="launch rwa inc" src="https://github.com/user-attachments/assets/e7e27cad-d148-480a-9e7d-3d8ffef48321" />
+<img width="1365" height="719" alt="1" src="https://github.com/user-attachments/assets/9c9a662e-6235-4ab9-95d3-f915f3df559f" />
+<img width="1365" height="733" alt="2" src="https://github.com/user-attachments/assets/d063d4fc-8d00-4c4e-a788-440004eb2886" />
+<img width="1365" height="738" alt="3" src="https://github.com/user-attachments/assets/d7d2c52c-6156-4b48-b56a-d6f252cac9c2" />
+<img width="1365" height="767" alt="4" src="https://github.com/user-attachments/assets/5300b173-8626-4c3d-b242-c80e377bf3d4" />
+<img width="1365" height="767" alt="5" src="https://github.com/user-attachments/assets/5b1e1ced-a3df-4536-8983-32e7f45717a8" />
+<img width="1361" height="741" alt="6" src="https://github.com/user-attachments/assets/3a0a7d8d-9647-4b94-ba87-8b9584a894f8" />
+<img width="1365" height="725" alt="7" src="https://github.com/user-attachments/assets/59b120f2-c9ac-4264-9484-4d6791ad71de" />
+<img width="1365" height="723" alt="8" src="https://github.com/user-attachments/assets/12359024-8b61-41ee-90ae-225b48bd4aee" />
+<img width="1365" height="731" alt="9" src="https://github.com/user-attachments/assets/44187cef-aa69-48e0-8fe4-ab35648019cf" />
 
-### 🔴 API Access Control
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│              INSERT SCREENSHOT HERE                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
-### 🔐 TLS / Cipher Analysis
+###  API Access Control
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│              INSERT SCREENSHOT HERE                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<img width="1366" height="745" alt="api key not found" src="https://github.com/user-attachments/assets/51a580a0-b64b-4ccb-bfec-ae5f1bdd8a94" />
+
 
 ### 🌐 Web Security Testing
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│              INSERT SCREENSHOT HERE                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<img width="1366" height="745" alt="secret not found" src="https://github.com/user-attachments/assets/c42a9a01-b7e7-4038-b89a-48120d108b7f" />
+<img width="1366" height="745" alt="passwordnot found" src="https://github.com/user-attachments/assets/746ddef5-387f-4034-b2bf-974cc6eac234" />
+<img width="1366" height="745" alt="api key not found" src="https://github.com/user-attachments/assets/6a2aa325-0f1b-4908-9813-36aefc90e660" />
 
----
-
-# 🎥 Demonstration
-
-**Security Testing Video**
-
-```text
-[ INSERT VIDEO LINK HERE ]
-```
 
 ---
 
 # 📄 Assessment Report
 
 **Full RWA Security Assessment Report**
-
-```text
-[ INSERT PDF LINK HERE ]
-```
+[RWA Security Assessment Report Alebiosu OS.pdf](https://github.com/user-attachments/files/32363505/RWA.Security.Assessment.Report.Alebiosu.OS.pdf)
 
 ---
 
