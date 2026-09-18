@@ -189,19 +189,19 @@ These are the assessment areas documented in the report. fileciteturn0file
 │                  SECURITY TOOLCHAIN                      │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│   Kali Linux                                           │
+│   Kali Linux                                           │ │
 │     └── Security Testing Environment                     │
 │                                                          │
-│   Burp Suite Community Edition                         │
+│   Burp Suite Community Edition                         │ │
 │     └── HTTP/HTTPS Interception & API Testing            │
 │                                                          │
-│   Testssl.sh                                            │
+│   Testssl.sh                                            ││
 │     └── TLS Protocol & Cipher Analysis                   │
 │                                                          │
-│   Browser Developer Tools                              │
+│   Browser Developer Tools                              │ │
 │     └── Source Code & Response Inspection                │
 │                                                          │
-│   Manual Testing                                        │
+│   Manual Testing                                         │
 │     └── Access Control & Security Validation             │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
