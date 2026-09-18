@@ -57,13 +57,13 @@ Focused on practical cybersecurity assessment, vulnerability identification, API
 
 ---
 
-# 🧰 Tools & Technologies Used
+#  Tools & Technologies Used
 
 <p align="center">
   <strong>Security Testing • Traffic Analysis • TLS Assessment • Manual Web Testing</strong>
 </p>
 
-### 🔎 Security Assessment Tools
+###  Security Assessment Tools
 
 <p align="center">
 
@@ -73,7 +73,7 @@ Focused on practical cybersecurity assessment, vulnerability identification, API
 
 </p>
 
-### 🌐 Web & API Testing
+###  Web & API Testing
 
 <p align="center">
 
@@ -84,7 +84,7 @@ Focused on practical cybersecurity assessment, vulnerability identification, API
 
 </p>
 
-### 🔐 Encryption & Network Security
+###  Encryption & Network Security
 
 <p align="center">
 
@@ -96,7 +96,7 @@ Focused on practical cybersecurity assessment, vulnerability identification, API
 
 ---
 
-# 🧪 Assessment Methodology
+#  Assessment Methodology
 
 ```text
                     ┌─────────────────────────┐
